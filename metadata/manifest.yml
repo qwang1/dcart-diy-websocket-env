@@ -63,4 +63,4 @@ Endpoints:
     Options:
       health: true
 
-Source-Url: https://raw.github.com/jhou1/dcart-diy-websocket-env/master/metadata/manifest.yml
+Source-Url: https://github.com/jhou1/dcart-diy-websocket-env.git
