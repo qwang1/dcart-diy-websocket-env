@@ -17,8 +17,8 @@ Compatible-Versions:
 - 0.0.5
 - 0.0.6
 - 0.0.7
-Cartridge-Vendor: redhat
-Vendor: redhat
+Cartridge-Vendor: hello
+Vendor: hello
 Categories:
 - web_framework
 - experimental
